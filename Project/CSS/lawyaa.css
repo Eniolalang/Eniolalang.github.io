@@ -1,0 +1,312 @@
+body {
+    background-image: url(../IMAGES/pic18.jpg);
+    /* width: 100%; */
+    height: 80vh;
+    background-position: center;
+    background-attachment: fixed;
+    margin: 0; 
+    /* overflow: scroll; */
+    /* overflow: block; */
+}
+h1 {
+    font-size: 0.875rem;
+    color: #999999;
+    margin-left: 128px;
+    margin-top: -30px;
+}
+.just {
+    /* float: right; */
+
+    font-size: 0.875rem;
+    color: #999999;
+    margin-top: -30px; 
+    margin-left: 1220px;
+}
+.mimi{
+    color: white;
+    margin-top: -20px;
+    margin-left: -155px;
+}
+h2 {
+    font-size: 0.875rem;
+    margin-top: -45px ;
+    margin-left: -90px;
+}
+ul {
+    margin-top: -75px;
+    margin-bottom: -55px;
+    padding: o;
+    list-style: none;
+    float: right;
+}
+ul li {
+     float: left;
+     width: 120px;
+     height: auto;
+     text-align: center;
+     opacity: .9;
+     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+     padding-top: 25px;
+}
+ul li a {
+    text-decoration: none;
+    color: #fff;
+    display: inline-block;
+}
+.cuss {
+    margin-left: 36px;
+}
+.You {
+    border: 2px solid #ff974f;
+    padding: 9px;
+    border-radius: 5px;
+    margin-top: -20px;
+    margin-bottom: -20px;
+}
+.You:hover {
+    border: 2px solid #ff8c00;
+}
+.loop {
+    color: white;
+    font-size: 70px;
+    font-weight: 700;
+    font-family: 'lora', serif;
+    text-align: center;
+}
+.luck {
+    background-color: #fff;
+    padding: 100px 0 110px;
+    display: block;  
+    /* margin-top: -18rem; */
+    height: 500px;
+    /* width: 100%; */
+}
+h4 {
+    color: #636363;
+    font-size: 20px;
+    font-family: inherit;
+    font-weight: 500;
+    margin-left: 6rem;
+    margin-top: -1rem;
+}
+h6 {
+    color: #1f2a30;
+    font-size: 30px;
+    margin-left: 5.7rem;
+    margin-top: -0.8rem;
+    font-family: 'lora', serif;
+}
+h3 {
+    color: #ff8c00;
+    margin-left: 5.7rem;
+    margin-top: -3rem;
+    font-weight: bolder;
+}
+.pick {
+    color: #636363;
+    margin-left: 5.7rem;
+    font-family: Raleway, sans-serif;
+    font-size: 1rem;
+    line-height: 1.6;
+}
+.fod {
+    width: 480px;
+    height: 360px;
+}
+.fud {
+    margin-left: 47rem;
+    margin-top: -33rem;
+}
+#cur {
+    background-image: url(../IMAGES/F6.jpg);
+    height: 700px;
+    width: 80rem;
+    margin-top: 9rem; 
+    color: black;  
+    padding: 90px;
+    margin-left: -50rem;
+    /* overflow: hidden; */
+    /* background-repeat: no-repeat; */
+} 
+.cats {
+    background-color: white;
+    width: 70rem;
+    height: 700px;
+    margin-left: -40rem;
+    margin-top: -50rem;
+}
+ .fish {
+    font-size: 1rem;
+    font-family: Raleway, sans-serif;
+    margin-top: -38rem;
+    margin-left: -35rem;
+    font-weight: 700;
+    color: #1f2a30;
+    padding: 10px 0 3px;
+} 
+.fishie {
+    font-size: 32px;
+    font-family: lora serif;
+    margin-left: -35rem;
+    margin-top: 1rem;
+    color: #1f2a30;
+} 
+.park {
+    color: #ff974f;
+    margin-left: -35rem;
+    margin-top: 0.5rem;
+}
+.parker {
+    font-size: 1rem;
+    font-family: Raleway, sans-serif;
+    margin-left: -35rem;
+    color: #636363;
+    margin-top: -2rem;
+} 
+.facebook {
+    margin-left: 13rem;
+    margin-top: -11rem;
+    border: 1px solid #f1f1f1;
+    border-radius: 3px;
+    height: 30px;
+    width: 37px;
+    padding-top: 5px;
+    text-align: center;
+}
+.facebook:hover {
+    color:  #ff974f;
+}
+.twitter {
+    margin-left: 16rem;
+    margin-top: -2.4rem;
+    border: 1px solid #f1f1f1;
+    border-radius: 3px;
+    height: 30px;
+    width: 37px;
+    padding-top: 5px;
+    text-align: center;
+}
+.twitter:hover {
+    color:  #ff974f;
+}
+.linkedin {
+    margin-left: 19rem;
+    margin-top: -2.3rem;
+    border: 1px solid #f1f1f1;
+    border-radius: 3px;
+    height: 30px;
+    width: 37px;
+    padding-top: 5px;
+    text-align: center;
+}
+.linkedin:hover {
+    color:  #ff974f;
+}
+.instagram {
+    margin-left: 22rem;
+    margin-top: -2.3rem;
+    border: 1px solid #f1f1f1;
+    border-radius: 3px;
+    height: 30px;
+    width: 37px;
+    padding-top: 5px;
+    text-align: center;
+}
+.instagram:hover {
+    color:  #ff974f;
+}
+.vimeo {
+    margin-left: 25rem;
+    margin-top: -2.3rem;
+    border: 1px solid #f1f1f1;
+    border-radius: 3px;
+    height: 26px;
+    width: 37px;
+    padding-top: 9px;
+    text-align: center;
+}
+.vimeo:hover {
+    color:  #ff974f;
+}
+.phone {
+    margin-left: -35rem;
+    margin-top: 10rem;
+}
+.fone {
+    margin-left: -34rem;
+    margin-top: -2.2rem;
+}
+.envelope {
+    margin-left: -35rem;
+    margin-top: 2rem;
+}
+.lope {
+    margin-left: -34rem;
+    margin-top: -2.2rem; 
+}
+.Addie {
+    margin-left: -35rem;
+    margin-top: 2rem;
+}
+.Address {
+    margin-left: -34rem;
+    margin-top: -2.2rem; 
+}
+.form {
+    margin-left: 0.1rem;
+    margin-top: -23rem;
+    border-color: #f1f1f1;
+}
+.Name {
+    width: 420px;
+    height: 34px;
+    border: 2px solid #f1f1f1;
+    border-radius: 3px;
+    padding-left: 1rem;
+}
+.Email {
+    width: 420px;
+    height: 34px;
+    border: 2px solid #f1f1f1;
+    border-radius: 3px;
+    padding-left: 1rem;
+}
+.Message {
+    width: 420px;
+    height: 34px;
+    border: 2px solid #f1f1f1;
+    border-radius: 3px;
+    padding-left: 1rem;
+    padding-bottom: 8rem;
+}
+.submit {
+    margin-left: 17rem;
+    margin-top: -10px;
+    background-color: #ff974f;
+    color: white;
+    border: 2px solid;
+    padding: 16px 30px;
+    border-radius: 5px; 
+    letter-spacing: 1px;
+    text-align: center;
+    font-weight: 700;
+    cursor: pointer;  
+}
+.submit:hover {
+    background-color: #ff8c00;
+}
+.foot {
+    margin-top: 12rem;
+    background-color: white;
+    /* width: 500px; */
+    height: 80px;
+    margin-left: -48rem;
+}
+.ter {
+    margin-left: 7rem;
+    padding: 18px 0 0 18px;
+    font-size: 0.875rem;
+    color: #636363;
+    font-weight: 500;
+    font-family: Raleway, sans-serif;
+}
